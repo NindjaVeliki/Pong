@@ -1,0 +1,43 @@
+canvas {
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 800px;
+    height: 400px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+body {
+    background-image: url(Images/space.jpg);
+  }
+
+#test {
+    padding-top: 20px;
+    position: relative;
+    width: 800px;
+    height:70px;
+    margin: auto;
+    font-style: arial;
+    font-size: 50px;
+    color: white     
+   }
+
+.alignleft {
+	float: left;
+}
+
+.alignright {
+	float: right;
+}
+
+#startBtn{
+    position: absolute;
+    margin: auto;
+    width: 400px;
+    height: 200px;
+    font-size: 20px; 
+}
